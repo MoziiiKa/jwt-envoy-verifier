@@ -1,6 +1,6 @@
 # JWT Token Verifier Using Envoy
 
-Implementing JWT token verifier using envoy.
+Implementing JWT token verifier using Envoy Proxy.
 
 ## Description
 
